@@ -1,1 +1,34 @@
-[{"word": "serendipity", "feature": "synonym"}, {"word": "good", "feature": "synonym"}, {"word": "apple", "feature": "definition"}, {"word": "apple", "feature": "example"}, {"word": "he", "feature": "example"}, {"word": "apple", "feature": "synonym"}, {"word": "good", "feature": "example"}, {"word": "apple", "feature": "example"}]
+[
+  {
+    "word": "\"exit\"",
+    "mode": "definition"
+  },
+  {
+    "word": "bye",
+    "mode": "definition"
+  },
+  {
+    "word": "hi",
+    "mode": "definition"
+  },
+  {
+    "word": "hell",
+    "mode": "example"
+  },
+  {
+    "word": "hell",
+    "mode": "hypernym"
+  },
+  {
+    "word": "hell",
+    "mode": "antonym"
+  },
+  {
+    "word": "hell",
+    "mode": "synonym"
+  },
+  {
+    "word": "hell",
+    "mode": "definition"
+  }
+]
